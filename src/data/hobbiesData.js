@@ -1,6 +1,5 @@
 export const HobbiesData = [
-  "Cooking ",
-  "Cleaning",
+  "Playing soccer",
   "Listening to music",
   "Watching movies",
   "Chatting",
